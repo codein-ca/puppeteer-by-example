@@ -1,0 +1,22 @@
+{
+  "name": "puppeteer-by-example",
+  "version": "1.0.0",
+  "description": "minimal, complete, verifiable puppeteer examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaycebasques/puppeteer-by-example.git"
+  },
+  "keywords": [
+    "puppeteer"
+  ],
+  "author": "Kayce Basques",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/kaycebasques/puppeteer-by-example/issues"
+  },
+  "homepage": "https://github.com/kaycebasques/puppeteer-by-example#readme"
+}
